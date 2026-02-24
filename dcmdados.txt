@@ -1,0 +1,19 @@
+informacoes de plantas
+	{ umidade
+	  temperatura
+	  luminosidade
+	 }
+cadastro dos usuarios
+	{ nome
+	  email
+	  senha
+	  nome de usuario
+	}
+plantas do usuario
+	{ tipos de plantas do usuario
+	  dados das plantas
+	}
+	  
+tutorial
+	{ interconexao de arduino
+	}
