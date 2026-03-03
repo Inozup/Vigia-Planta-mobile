@@ -10,4 +10,9 @@ O dispositivo que vamos desenvolver tem como finalidade ser uma placa de arduino
 Nosso projeto busca oferecer comodidade e simplificar o cuidado de plantas em residências dando informações importantes e de maneira rapida, assim facilitando seu cuidado continuo.
 
 e) WBS
+
 f) Gantt
+
+g)analise de custos
+
+h)analise de riscos
