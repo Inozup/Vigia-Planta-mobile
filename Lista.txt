@@ -10,6 +10,7 @@ Cadastro dos usuarios
 	  email
 	  senha
 	  nome de usuario
+	  pronome
 	}
 Plantas do usuario
 	{ 
